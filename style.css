@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Bebas Neue";
+    font-size:300%
+}
+
+h2 {
+    font-family: "Bebas Neue";
+}
+
+body {
+    text-align: center;
+    background-color:rgb(236, 236, 102);
+}
+
+#resultPlaceholder, #computersChoice {
+    font-family: "Bebas Neue";
+}
+
+.button {
+    background-color: black;
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    color: rgb(236, 236, 102);
+    padding: 15px 3px;
+    display: inline-block;
+    margin: 4px 2px;
+    width: 80px;
+    
+}
